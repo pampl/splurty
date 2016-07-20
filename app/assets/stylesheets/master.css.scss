@@ -36,9 +36,11 @@
 }
 
 .links a {
+  font-family: 'fira_sansultralight', sans-serif;
   color:black;
-  font-size: 25px;
+  font-size: 18px;
   border-bottom: 1px solid #dfdfdf;
+  font-weight:bold;
 }
 
 header {
@@ -47,4 +49,14 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'fira_sanslight', sans-serif;
+  font-weight:bold;
+  font-size:40px;
+}
+
+h2 {
+  font-family: 'fira_sansultralight_italic', sans-serif;
 }
